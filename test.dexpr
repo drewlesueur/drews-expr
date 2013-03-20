@@ -1,0 +1,22 @@
+some_stuff
+  name  Hello wolrd
+
+other things
+  name yo yo "test" \some stuff \"
+
+map
+  name Map
+
+what  about this really cool one
+
+simple thing
+  a nested string  for fun
+    fun stuff here
+      and here
+    and here2
+  a not nested string
+
+but this?
+
+what  about this long string
+and more stuff here
